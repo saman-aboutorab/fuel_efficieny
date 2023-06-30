@@ -1,7 +1,5 @@
 # Car Fuel Efficiency
-:::
 
-::: {.cell .markdown id="aWKzgUiCrorZ"}
 ## Introduction
 
 What is the relationship between the power of a car\'s engine
@@ -13,26 +11,17 @@ In this project, we\'ll explore mpg dataset, which contains one row per
 car model and includes information such as the year the car was made,
 the number of miles per gallon (\"M.P.G.\") it achieves, the power of
 its engine (measured in \"horsepower\"), and its country of origin.
-:::
 
-::: {.cell .markdown}
 ![car](vertopal_8993b510fb2f4fa9b63a5b02761fa0c4/3ebe22feb3b7cbdebda1ba8d585cbec11fe31d63.jpg)
-:::
 
-::: {.cell .code execution_count="3" id="cklHmIiqrbw-"}
 ``` python
 # Import Matplotlib and Seaborn
 import matplotlib.pyplot as plt
 import seaborn as sns
 import pandas as pd
 ```
-:::
-
-::: {.cell .markdown id="zLyOQWBQs3so"}
 ## Dataset
-:::
 
-::: {.cell .code execution_count="12" id="tUOYz4XKsUrk"}
 ``` python
 mpg = pd.read_csv('mpg.csv')
 ```
