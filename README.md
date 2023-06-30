@@ -29,7 +29,7 @@ its engine (measured in \"horsepower\"), and its country of origin.
 :::
 
 ::: {.cell .markdown id="4q8weCfJr8Z9"}
-![image.png](vertopal_d231a80600ac446281d8f6ebd182602d/b7078b2b009439416cdd5c2b6e185638af6ed952.png)
+![image.png](vertopal_2f18fae047cf4a568ea09522c8f08dd2/b7078b2b009439416cdd5c2b6e185638af6ed952.png)
 :::
 
 ::: {.cell .code execution_count="3" id="cklHmIiqrbw-"}
@@ -100,7 +100,7 @@ plt.show()
 ```
 
 ::: {.output .display_data}
-![](vertopal_d231a80600ac446281d8f6ebd182602d/2a145484c2a2c27ea41eccbd4a665f1fb47ec8a9.png)
+![](vertopal_2f18fae047cf4a568ea09522c8f08dd2/2a145484c2a2c27ea41eccbd4a665f1fb47ec8a9.png)
 :::
 :::
 
@@ -122,7 +122,7 @@ plt.show()
 ```
 
 ::: {.output .display_data}
-![](vertopal_d231a80600ac446281d8f6ebd182602d/dd6bb168bb5604ea4cf25413eac3818864ea0e59.png)
+![](vertopal_2f18fae047cf4a568ea09522c8f08dd2/dd6bb168bb5604ea4cf25413eac3818864ea0e59.png)
 :::
 :::
 
@@ -154,7 +154,7 @@ plt.show()
 :::
 
 ::: {.output .display_data}
-![](vertopal_d231a80600ac446281d8f6ebd182602d/6dd460d52006fccb9e731588cf4316b22dae170a.png)
+![](vertopal_2f18fae047cf4a568ea09522c8f08dd2/6dd460d52006fccb9e731588cf4316b22dae170a.png)
 :::
 :::
 
